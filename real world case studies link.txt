@@ -4,4 +4,8 @@ https://www.tfcertification.com/pages/data-science-for-business-materials
 
 https://www.tfcertification.com/pages/deep-learning-and-machine-learning-practical-workout
 
+Feature Engineering course
+git clone https://github.com/solegalli/feature-engineering-for-machine-learning.git
+https://www.dropbox.com/sh/2vtm7k5maiyqrob/AAD7fm7Xwk6Ye9G54pgFRdFea?dl=0
 
+https://www.dropbox.com/sh/mui5laz1h0wsz2n/AAADxLmvSMEFAikw5mu1yMxga?dl=0
